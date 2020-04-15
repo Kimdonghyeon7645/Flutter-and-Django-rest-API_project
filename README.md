@@ -8,11 +8,16 @@ django rest API 를 응용해서 APP(어플) 개발
 
 > 참고 : https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9E%A5%EA%B3%A0-%ED%80%B4%EC%A6%88%EC%95%B1-%EC%84%9C%EB%B2%84-%ED%92%80%EC%8A%A4%ED%83%9D/dashboard
 
----
+**현재 Flutter 로 안드로이드 어플 UI는 모두 구상했고,**
 
-현재 Flutter 로 안드로이드 어플 UI는 모두 구상했고,
+***
 
-Django rest API 구현중입니다.
+![image](https://user-images.githubusercontent.com/48408417/79346134-f4e40080-7f6c-11ea-80f0-f9d751efa794.png)
 
-![image](https://user-images.githubusercontent.com/48408417/79339779-5489de00-7f64-11ea-947d-a29fcc4f2a26.png)
+**Django rest API 자체도 구현이 끝났습니다.**
+
 ###### 삽질의 흔적 
+![image](https://user-images.githubusercontent.com/48408417/79339779-5489de00-7f64-11ea-947d-a29fcc4f2a26.png)
+
+
+
