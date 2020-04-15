@@ -1,5 +1,8 @@
 # quiz_app_test
 
+
+![ezgif-6-c4f5419c4088](https://user-images.githubusercontent.com/48408417/79340499-5ef8a780-7f65-11ea-9856-93413c1fe69b.gif)
+
 django rest API 를 응용해서 APP(어플) 개발  
 (뜬금포지만 장고 공부해보다가 어쩌다보니;;)
 
@@ -10,3 +13,6 @@ django rest API 를 응용해서 APP(어플) 개발
 현재 Flutter 로 안드로이드 어플 UI는 모두 구상했고,
 
 Django rest API 구현중입니다.
+
+![image](https://user-images.githubusercontent.com/48408417/79339779-5489de00-7f64-11ea-947d-a29fcc4f2a26.png)
+###### 삽질의 흔적 
