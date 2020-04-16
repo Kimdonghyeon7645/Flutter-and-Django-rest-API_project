@@ -20,4 +20,11 @@ django rest API 를 응용해서 APP(어플) 개발
 ![image](https://user-images.githubusercontent.com/48408417/79339779-5489de00-7f64-11ea-947d-a29fcc4f2a26.png)
 
 
+***
+## 장고 restAPI 와 연결후,
+
+![ezgif-6-0bd47f942972](https://user-images.githubusercontent.com/48408417/79475630-e23bfb00-8042-11ea-9e56-cd8687662fc1.gif)
+
+이제 장고 restAPI 의 데이터를 사용해서,  
+앱으로 퀴즈를 풀 수 있습니다!
 
